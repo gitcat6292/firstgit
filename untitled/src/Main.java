@@ -8,5 +8,6 @@ public class Main {
         System.out.println("add dev");
         System.out.println("add new dev");
         System.out.println("add new dev 2");
+        System.out.println("add dev 3");
     }
 }
