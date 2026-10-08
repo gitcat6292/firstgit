@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello Git");
         System.out.println("my name is amir");
         System.out.println("add dev");
+        System.out.println("add new dev");
     }
 }
